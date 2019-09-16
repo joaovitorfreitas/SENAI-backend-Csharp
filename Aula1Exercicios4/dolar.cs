@@ -10,10 +10,15 @@ namespace Aula1Exercicios4
             double dolar;
             double media;
 
-            Console.WriteLine("Insira o valor em dolar");
-            dolar = double.Parse(Console.ReadLine());
+            Console.WriteLine("Insira o valor em real");
+            real = double.Parse(Console.ReadLine());
 
-    
+            media = real / 4.09;
+
+            Console.WriteLine($"valor do resultado é {media}");
+
+            
+
         }
     }
 }
