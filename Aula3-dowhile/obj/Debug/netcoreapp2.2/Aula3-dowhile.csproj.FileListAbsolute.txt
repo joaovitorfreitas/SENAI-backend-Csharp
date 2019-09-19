@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-backend-Csharp\Aula3-dowhile\bin\Debug\netcoreapp2.2\Aula3-dowhile.deps.json
+C:\Users\fic\Desktop\SENAI-backend-Csharp\Aula3-dowhile\bin\Debug\netcoreapp2.2\Aula3-dowhile.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-backend-Csharp\Aula3-dowhile\bin\Debug\netcoreapp2.2\Aula3-dowhile.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-backend-Csharp\Aula3-dowhile\bin\Debug\netcoreapp2.2\Aula3-dowhile.dll
+C:\Users\fic\Desktop\SENAI-backend-Csharp\Aula3-dowhile\bin\Debug\netcoreapp2.2\Aula3-dowhile.pdb
+C:\Users\fic\Desktop\SENAI-backend-Csharp\Aula3-dowhile\obj\Debug\netcoreapp2.2\Aula3-dowhile.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-backend-Csharp\Aula3-dowhile\obj\Debug\netcoreapp2.2\Aula3-dowhile.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-backend-Csharp\Aula3-dowhile\obj\Debug\netcoreapp2.2\Aula3-dowhile.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-backend-Csharp\Aula3-dowhile\obj\Debug\netcoreapp2.2\Aula3-dowhile.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-backend-Csharp\Aula3-dowhile\obj\Debug\netcoreapp2.2\Aula3-dowhile.dll
+C:\Users\fic\Desktop\SENAI-backend-Csharp\Aula3-dowhile\obj\Debug\netcoreapp2.2\Aula3-dowhile.pdb
