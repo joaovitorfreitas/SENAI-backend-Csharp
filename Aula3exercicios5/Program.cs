@@ -12,8 +12,14 @@ namespace Aula3exercicios5
             double salario = 1;
             int funcionarios = -1;
             double ac = 0; 
+            int quantidade;
 
-            Console.Write("\nDigite <0> para sair");
+            //Console.Write("\nDigite <0> para sair");
+
+            Console.WriteLine("Digite a quantidade de de funcionarios"); 
+            quantidade = int.Parse(Console.ReadLine())
+            
+
             while (salario != 0)
             {
 

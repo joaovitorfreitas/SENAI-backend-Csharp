@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vitor\\Desktop\\Material de estudos\\SENAI-backend-Csharp\\Aula3exercicios5\\Aula3exercicios5.csproj": {}
+    "C:\\Users\\fic\\Desktop\\SENAI-backend-Csharp\\SENAI-backend-Csharp\\Aula3exercicios5\\Aula3exercicios5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vitor\\Desktop\\Material de estudos\\SENAI-backend-Csharp\\Aula3exercicios5\\Aula3exercicios5.csproj": {
+    "C:\\Users\\fic\\Desktop\\SENAI-backend-Csharp\\SENAI-backend-Csharp\\Aula3exercicios5\\Aula3exercicios5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vitor\\Desktop\\Material de estudos\\SENAI-backend-Csharp\\Aula3exercicios5\\Aula3exercicios5.csproj",
+        "projectUniqueName": "C:\\Users\\fic\\Desktop\\SENAI-backend-Csharp\\SENAI-backend-Csharp\\Aula3exercicios5\\Aula3exercicios5.csproj",
         "projectName": "Aula3exercicios5",
-        "projectPath": "C:\\Users\\Vitor\\Desktop\\Material de estudos\\SENAI-backend-Csharp\\Aula3exercicios5\\Aula3exercicios5.csproj",
-        "packagesPath": "C:\\Users\\Vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vitor\\Desktop\\Material de estudos\\SENAI-backend-Csharp\\Aula3exercicios5\\obj\\",
+        "projectPath": "C:\\Users\\fic\\Desktop\\SENAI-backend-Csharp\\SENAI-backend-Csharp\\Aula3exercicios5\\Aula3exercicios5.csproj",
+        "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fic\\Desktop\\SENAI-backend-Csharp\\SENAI-backend-Csharp\\Aula3exercicios5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Vitor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\fic\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"

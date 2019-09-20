@@ -37,7 +37,7 @@ namespace Aula3exercicios4
 
 
 
-            media = acu / 20;
+            media = acu / cont;
 
             Console.WriteLine("média é : " + media);
 
