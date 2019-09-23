@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fic\\Desktop\\SENAI-backend-Csharp\\SENAI-backend-Csharp\\Aula4exercicios2\\Aula4exercicios2.csproj",
-      "projectName": "Aula4exercicios2",
-      "projectPath": "C:\\Users\\fic\\Desktop\\SENAI-backend-Csharp\\SENAI-backend-Csharp\\Aula4exercicios2\\Aula4exercicios2.csproj",
+      "projectUniqueName": "C:\\Users\\fic\\Desktop\\SENAI-backend-Csharp\\SENAI-backend-Csharp\\Aula4Exercicios2\\Aula4Exercicios2.csproj",
+      "projectName": "Aula4Exercicios2",
+      "projectPath": "C:\\Users\\fic\\Desktop\\SENAI-backend-Csharp\\SENAI-backend-Csharp\\Aula4Exercicios2\\Aula4Exercicios2.csproj",
       "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fic\\Desktop\\SENAI-backend-Csharp\\SENAI-backend-Csharp\\Aula4exercicios2\\obj\\",
+      "outputPath": "C:\\Users\\fic\\Desktop\\SENAI-backend-Csharp\\SENAI-backend-Csharp\\Aula4Exercicios2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
