@@ -1,0 +1,4 @@
+C:\Users\fic\Desktop\SENAI-backend-Csharp\SENAI-backend-Csharp\Aula8Orientado\Orientado Objetos\obj\Debug\netcoreapp2.2\Orientado Objetos.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-backend-Csharp\SENAI-backend-Csharp\Aula8Orientado\Orientado Objetos\obj\Debug\netcoreapp2.2\Orientado Objetos.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-backend-Csharp\SENAI-backend-Csharp\Aula8Orientado\Orientado Objetos\obj\Debug\netcoreapp2.2\Orientado Objetos.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-backend-Csharp\SENAI-backend-Csharp\Aula8Orientado\Orientado Objetos\obj\Debug\netcoreapp2.2\Orientado Objetos.AssemblyInfo.cs

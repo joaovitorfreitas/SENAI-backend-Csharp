@@ -40,7 +40,7 @@ namespace Aula7 {
             if(Calculo > 9){
                 digito_v1 = "0";
             }else{
-                digito_v1 = Calculo.ToString();
+                digito_v1 = Calculo.ToString(); 
             }
 
             if(digito_v1 == cpfUsuario[9].ToString() ){
