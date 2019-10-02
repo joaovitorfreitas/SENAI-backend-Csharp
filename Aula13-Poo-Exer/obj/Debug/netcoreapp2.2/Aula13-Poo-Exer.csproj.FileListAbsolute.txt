@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-backend-Csharp\SENAI-backend-Csharp\Aula13-Poo-Exer\obj\Debug\netcoreapp2.2\Aula13-Poo-Exer.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-backend-Csharp\SENAI-backend-Csharp\Aula13-Poo-Exer\obj\Debug\netcoreapp2.2\Aula13-Poo-Exer.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-backend-Csharp\SENAI-backend-Csharp\Aula13-Poo-Exer\obj\Debug\netcoreapp2.2\Aula13-Poo-Exer.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-backend-Csharp\SENAI-backend-Csharp\Aula13-Poo-Exer\obj\Debug\netcoreapp2.2\Aula13-Poo-Exer.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-backend-Csharp\SENAI-backend-Csharp\Aula13-Poo-Exer\bin\Debug\netcoreapp2.2\Aula13-Poo-Exer.deps.json
+C:\Users\fic\Desktop\SENAI-backend-Csharp\SENAI-backend-Csharp\Aula13-Poo-Exer\bin\Debug\netcoreapp2.2\Aula13-Poo-Exer.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-backend-Csharp\SENAI-backend-Csharp\Aula13-Poo-Exer\bin\Debug\netcoreapp2.2\Aula13-Poo-Exer.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-backend-Csharp\SENAI-backend-Csharp\Aula13-Poo-Exer\bin\Debug\netcoreapp2.2\Aula13-Poo-Exer.dll
+C:\Users\fic\Desktop\SENAI-backend-Csharp\SENAI-backend-Csharp\Aula13-Poo-Exer\bin\Debug\netcoreapp2.2\Aula13-Poo-Exer.pdb
+C:\Users\fic\Desktop\SENAI-backend-Csharp\SENAI-backend-Csharp\Aula13-Poo-Exer\obj\Debug\netcoreapp2.2\Aula13-Poo-Exer.dll
+C:\Users\fic\Desktop\SENAI-backend-Csharp\SENAI-backend-Csharp\Aula13-Poo-Exer\obj\Debug\netcoreapp2.2\Aula13-Poo-Exer.pdb

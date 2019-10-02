@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Capitain_American\bin\Debug\netcoreapp2.2\Capitain_American.deps.json
+C:\Users\fic\Desktop\Capitain_American\bin\Debug\netcoreapp2.2\Capitain_American.runtimeconfig.json
+C:\Users\fic\Desktop\Capitain_American\bin\Debug\netcoreapp2.2\Capitain_American.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Capitain_American\bin\Debug\netcoreapp2.2\Capitain_American.dll
+C:\Users\fic\Desktop\Capitain_American\bin\Debug\netcoreapp2.2\Capitain_American.pdb
+C:\Users\fic\Desktop\Capitain_American\obj\Debug\netcoreapp2.2\Capitain_American.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Capitain_American\obj\Debug\netcoreapp2.2\Capitain_American.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Capitain_American\obj\Debug\netcoreapp2.2\Capitain_American.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Capitain_American\obj\Debug\netcoreapp2.2\Capitain_American.AssemblyInfo.cs
+C:\Users\fic\Desktop\Capitain_American\obj\Debug\netcoreapp2.2\Capitain_American.dll
+C:\Users\fic\Desktop\Capitain_American\obj\Debug\netcoreapp2.2\Capitain_American.pdb
